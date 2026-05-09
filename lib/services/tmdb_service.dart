@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/movie.dart';
 
 class TmdbService {
-  final String apiKey = '';
+  final String apiKey = '82f8a544b0d2942af6bfbf7a0388bd58';
 
   final String baseUrl = 'https://api.themoviedb.org/3';
 
